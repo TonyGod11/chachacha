@@ -29,11 +29,12 @@ Next, you should simply unzip the file into the directory where you want JMeter 
 Simply unzip and you are done!
 
 
-## Open file in Jmeter
+## Impliment file in Jmeter
 
 Save file `LoadTest.jmx` from this page on your computer.
 
 Open Jmeter from `\bin\jmeter.bat`, load the file `LoadTest.jmx`
 
+ Click Start button
 
 
