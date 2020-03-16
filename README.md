@@ -36,5 +36,13 @@ Save file `LoadTest.jmx` from this page on your computer.
 Open Jmeter from `\bin\jmeter.bat`, load the file `LoadTest.jmx`
 
  Click Start button
+ 
+ 
+## Testing steps
 
+-    First thread create and authorize user
+-    The next thread sends a GET request for a single player profile
+-    And the last step sends a GET request for a games collection for the created user.
+
+ In the end we will get CVS file with test result
 
