@@ -1,4 +1,4 @@
-# A load test for Jmeter task
+# Load test for Jmeter task
 
  
 I built this project on Windows, so installation method also should be for Windows.
